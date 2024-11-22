@@ -39,18 +39,4 @@ An AI-powered web tool designed to enhance collaboration in scriptwriting! **wr-
 ---
 
 ### ⚡ Fun Facts  
-- 🎥 I’m an avid film enthusiast with a focus on apocalyptic and science fiction genres, exploring themes like survival, futuristic technology, and humanity’s resilience.  
-- 📺 TV series are a big part of my inspiration—though parenthood has refined my viewing habits, making me more selective and focused on high-quality storytelling.  
-- 🖼️ My passion for storytelling drives my work in AI, especially in co-creative tools for narrative-driven mediums like film and TV.  
-- 🌐 Check out my favorite films and reviews on **[Letterboxd](https://letterboxd.com/ChrisJW87/)**.  
-
----
-
-### 📫 **Get in Touch**  
-- Dive into my research on [ResearchGate](https://www.researchgate.net/profile/Chris-Weber).  
-- **Try out [wr-AI-ter](https://kilab.hff-muc.de/wraiter/)**—let us know how it transforms your creative workflow!  
-- Explore my repositories and feel free to reach out—I’d love to collaborate on projects that prioritize creativity and user empowerment!  
-
----
-
-**Let’s redefine creativity in the age of AI—together!** 🚀
+🎥 I’m an avid film and TV enthusiast, inspired by apocalyptic and science fiction genres that explore survival, humanity’s resilience, and futuristic tech. Check out my favorite films and reviews on **[Letterboxd](https://letterboxd.com/ChrisJW87/)**.
